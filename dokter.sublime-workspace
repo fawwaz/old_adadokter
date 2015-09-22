@@ -1,0 +1,1846 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"klin",
+				"klinik"
+			],
+			[
+				"id_",
+				"id_klinik"
+			],
+			[
+				"klini",
+				"klinik"
+			],
+			[
+				"bslistgroup",
+				"bs3-list-group:content	bs3-list-group-content"
+			],
+			[
+				"bslist",
+				"bs3-list-group:linked	bs3-list-group-linked"
+			],
+			[
+				"ses",
+				"session_userdata	CI - Session - Retrieving Session Data"
+			],
+			[
+				"data",
+				"data_error"
+			],
+			[
+				"array_key",
+				"array_key_exists"
+			],
+			[
+				"id",
+				"id_dokter"
+			],
+			[
+				"get_dokter",
+				"get_dokter_id_from_alias"
+			],
+			[
+				"sese",
+				"session_userdata	CI - Session - Retrieving Session Data"
+			],
+			[
+				"sess",
+				"session_userdata	CI - Session - Retrieving Session Data"
+			],
+			[
+				"user",
+				"user_agent	CI - Get user agent"
+			],
+			[
+				"klinik",
+				"klinik_model"
+			],
+			[
+				"for",
+				"for	for …"
+			],
+			[
+				"kli",
+				"klinik_model"
+			],
+			[
+				"get",
+				"get	Get Elements"
+			],
+			[
+				"profile",
+				"profile_img_direktori_wrapper"
+			],
+			[
+				"bslis",
+				"bs3-list-group	bs3-list-group"
+			],
+			[
+				"edi",
+				"editor_dialog"
+			],
+			[
+				"templa",
+				"template"
+			],
+			[
+				"script",
+				"script_file"
+			],
+			[
+				"load",
+				"load_helper	CI - Load Helper File"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"bs3danger",
+				"bs3-alert:danger	bs3-alert-danger"
+			],
+			[
+				"bsglyp",
+				"bs3-icon:glyphicon	bs3-icon-glyphicon"
+			],
+			[
+				"library",
+				"load_library	CI - Load Library"
+			],
+			[
+				"view",
+				"viewdata"
+			],
+			[
+				"form",
+				"form_input	CI - Form Helper - Input Field"
+			],
+			[
+				"bsnavbar",
+				"bs3-navbar:link	bs3-navbar-link"
+			],
+			[
+				"bs3-",
+				"bs3-input:month	bs3-input-month"
+			],
+			[
+				"tamb",
+				"tambah_request"
+			],
+			[
+				"bs3-button",
+				"bs3-button:default	bs3-button-default"
+			],
+			[
+				"bs",
+				"bs3-list-group:content	bs3-list-group-content"
+			],
+			[
+				"bs3-navbar",
+				"bs3-navbar:static-top	bs3-navbar-static-top"
+			],
+			[
+				"bs-navbar",
+				"bs3-navbar:basic	bs3-navbar-basic"
+			],
+			[
+				"template",
+				"template_2"
+			],
+			[
+				"alias",
+				"alias_klinik"
+			],
+			[
+				"info",
+				"info_klinik"
+			],
+			[
+				"trans",
+				"trans_status"
+			],
+			[
+				"socia",
+				"social"
+			],
+			[
+				"soci",
+				"social"
+			],
+			[
+				"redirec",
+				"redirect_uri"
+			],
+			[
+				"domain",
+				"domainKey"
+			],
+			[
+				"social",
+				"social_info"
+			],
+			[
+				"pas",
+				"past_range"
+			],
+			[
+				"rq",
+				"request_range"
+			],
+			[
+				"res",
+				"reserved"
+			],
+			[
+				"Temp",
+				"template"
+			],
+			[
+				"upper",
+				"uppermenu_dashboard"
+			],
+			[
+				"met",
+				"method"
+			],
+			[
+				"th",
+				"this"
+			],
+			[
+				"re",
+				"redirect"
+			],
+			[
+				"valid",
+				"getIsValid"
+			],
+			[
+				"recap",
+				"recaptcha"
+			],
+			[
+				"validat",
+				"validation_errors"
+			],
+			[
+				"requ",
+				"required"
+			],
+			[
+				"up",
+				"uppermenu2"
+			],
+			[
+				"reg",
+				"regions"
+			],
+			[
+				"temp",
+				"template_2"
+			],
+			[
+				"proxy",
+				"proxyauth"
+			],
+			[
+				"reque",
+				"request"
+			],
+			[
+				"get_clas",
+				"get_class_methods"
+			],
+			[
+				"reu",
+				"request"
+			],
+			[
+				"request",
+				"request_data"
+			],
+			[
+				"req",
+				"req_list"
+			],
+			[
+				"scrip",
+				"script_file"
+			],
+			[
+				"login",
+				"login_url"
+			],
+			[
+				"twilio",
+				"twilio_queue"
+			],
+			[
+				"del",
+				"deliver_time"
+			],
+			[
+				"no_hp",
+				"no_hps"
+			],
+			[
+				"oup",
+				"output_string"
+			],
+			[
+				"kerja",
+				"kerja_from"
+			],
+			[
+				"out",
+				"output_string"
+			],
+			[
+				"minute",
+				"minuteStepping"
+			],
+			[
+				"confir",
+				"confirm_request"
+			],
+			[
+				"confirm_",
+				"confirm_request"
+			],
+			[
+				"remov",
+				"remove_button"
+			],
+			[
+				"remo",
+				"remove_button"
+			],
+			[
+				"date",
+				"datetimepicker"
+			],
+			[
+				"waktu",
+				"waktu_kerja_to"
+			],
+			[
+				"new",
+				"newNum"
+			],
+			[
+				"nw",
+				"newNum"
+			],
+			[
+				"lib",
+				"lib_url"
+			],
+			[
+				"conf",
+				"config"
+			],
+			[
+				"confi",
+				"confirm_password"
+			],
+			[
+				"tangg",
+				"tanggal_jam"
+			],
+			[
+				"tangga",
+				"tanggal_jam"
+			],
+			[
+				"result",
+				"result_array"
+			],
+			[
+				"prn",
+				"print_r"
+			],
+			[
+				"explod",
+				"exploded"
+			],
+			[
+				"dokter",
+				"dokter_model"
+			],
+			[
+				"viw",
+				"view_data"
+			],
+			[
+				"check",
+				"checkout"
+			],
+			[
+				"dokte",
+				"dokter_model"
+			],
+			[
+				"tang",
+				"tanggal_jam"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"unset",
+				"unset_userdata"
+			],
+			[
+				"num",
+				"num_rows"
+			],
+			[
+				"logged",
+				"logged_in"
+			],
+			[
+				"valida",
+				"validation_errors"
+			],
+			[
+				"complete",
+				"complete_registration"
+			],
+			[
+				"no_h",
+				"no_hp_update"
+			],
+			[
+				"no_p",
+				"no_hp_update"
+			],
+			[
+				"phone",
+				"phone_verification"
+			],
+			[
+				"Sess",
+				"session"
+			],
+			[
+				"comple",
+				"complete_registration"
+			],
+			[
+				"pasien",
+				"pasien_model"
+			],
+			[
+				"submit",
+				"submitHandler"
+			],
+			[
+				"phone_",
+				"phone_update_form"
+			],
+			[
+				"sms",
+				"sms_code"
+			],
+			[
+				"kode",
+				"kode_verifikasi"
+			],
+			[
+				"date_Default",
+				"date_default_timezone_set"
+			],
+			[
+				"exa",
+				"exactlength"
+			],
+			[
+				"KODE",
+				"kode_verifikasi"
+			],
+			[
+				"gmap_Wr",
+				"gmap_wrap_h"
+			],
+			[
+				"gmap_wra",
+				"gmap_wrap"
+			],
+			[
+				"gmap_wr",
+				"gmap_wrap"
+			],
+			[
+				"gmap_wrap",
+				"gmap_wrapper"
+			],
+			[
+				"gmap",
+				"gmap"
+			],
+			[
+				"callback",
+				"callback_twitter"
+			],
+			[
+				"cal",
+				"calEvent"
+			],
+			[
+				"awal",
+				"awal_jam"
+			],
+			[
+				"js",
+				"jsEvent"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"passwor",
+				"password_dokter"
+			],
+			[
+				"confirm",
+				"confirm_password"
+			],
+			[
+				"regis",
+				"registration_form"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "application/controllers/klinik.php",
+			"settings":
+			{
+				"buffer_size": 11477,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/kalukis/kalukis-master/apps/src/main.js",
+			"settings":
+			{
+				"buffer_size": 1076,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/E/kalukis/kalukis-master/apps/src/app.js",
+			"settings":
+			{
+				"buffer_size": 3463,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/E/kalukis/kalukis-master/apps/src/painters/freehandPainter.js",
+			"settings":
+			{
+				"buffer_size": 2887,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/wordpress/wp-config.php",
+			"settings":
+			{
+				"buffer_size": 3412,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/kalukis/kalukis-master/apps/index.html",
+			"settings":
+			{
+				"buffer_size": 1508,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/views/klinik/content_profil.php",
+			"settings":
+			{
+				"buffer_size": 5076,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/views/templates/template_1.php",
+			"settings":
+			{
+				"buffer_size": 3468,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"ssphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"sshtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"ssht",
+				"Set Syntax: HTML (Tcl)"
+			],
+			[
+				"hht",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"ssj",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ssp",
+				"Set Syntax: PHP"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Add Channel"
+			],
+			[
+				"ssc",
+				"Set Syntax: C++"
+			],
+			[
+				"text",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"c++",
+				"Set Syntax: C++"
+			],
+			[
+				"ssh",
+				"Set Syntax: HTML"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"jsp",
+				"Set Syntax: Java Server Page (JSP)"
+			],
+			[
+				"ssx",
+				"Set Syntax: XML"
+			],
+			[
+				"SSC",
+				"Set Syntax: C++"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 118.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/wordpress2/wp-config.php",
+		"/E/kalukis/kalukis-master/apps/src/app.build.js",
+		"/C/xampp/htdocs/dokter/application/views/dokter/content_dashboard.php",
+		"/C/xampp/htdocs/dokter/application/views/component/uppermenu.php",
+		"/C/xampp/htdocs/dokter/application/views/klinik/content_manajemen_dokter.php",
+		"/C/xampp/htdocs/dokter/application/controllers/dokter.php",
+		"/C/xampp/htdocs/dokter/application/models/dokter_model.php",
+		"/C/xampp/htdocs/dokter/application/views/templates/template_1.php",
+		"/C/xampp/htdocs/dokter/assets/libs/bootstrap_gallery/index.html",
+		"/C/xampp/htdocs/dokter/application/views/klinik/content_dashboard.php",
+		"/C/xampp/htdocs/dokter/application/models/klinik_model.php",
+		"/C/xampp/htdocs/dokter/application/controllers/klinik.php",
+		"/C/xampp/htdocs/dokter/assets/libs/bootstrap_gallery/css/bootstrap-image-gallery.css",
+		"/C/xampp/htdocs/dokter/assets/libs/bootstrap_gallery/js/demo.js",
+		"/C/xampp/htdocs/dokter/assets/libs/bootstrap_gallery/css/blueimp_galery.css",
+		"/C/xampp/htdocs/dokter/assets/libs/bootstrap_gallery/js/blueimp_gallery.js",
+		"/C/xampp/htdocs/dokter/application/controllers/site.php",
+		"/C/xampp/htdocs/dokter/application/views/templates/template_2.php",
+		"/C/xampp/htdocs/dokter/application/views/klinik/content_edit_album.php",
+		"/C/xampp/htdocs/dokter/application/views/klinik/sidebar_dashboard.php",
+		"/C/xampp/htdocs/dokter/assets/js/klinik_add_dokter.js",
+		"/C/xampp/htdocs/dokter/application/views/klinik/content_profil.php",
+		"/C/xampp/htdocs/dokter/application/views/dokter/content_profil.php",
+		"/C/xampp/htdocs/dokter/assets/libs/bootstrap_datatables/js/datatables.js",
+		"/C/xampp/htdocs/dokter/assets/js/my_calendar.js",
+		"/C/xampp/htdocs/dokter/assets/js/my_gmap.js",
+		"/C/xampp/htdocs/dokter/application/config/routes.php",
+		"/C/xampp/htdocs/dokter/application/views/klinik/content_settings.php",
+		"/C/xampp/htdocs/dokter/application/views/klinik/content_login.php",
+		"/C/xampp/htdocs/dokter/application/views/dokter/sidebar_dashboard.php",
+		"/C/xampp/htdocs/dokter/assets/libs/grocery/assets/grocery_crud/js/jquery_plugins/ui/i18n/timepicker/jquery-ui-timepicker-es.js",
+		"/C/xampp/htdocs/dokter/application/views/dokter/content_settings.php",
+		"/C/xampp/htdocs/dokter/application/views/dokter/content_login.php",
+		"/C/xampp/htdocs/dokter/application/views/login.php",
+		"/C/xampp/htdocs/dokter/application/views/dokter/content_direktori.php",
+		"/E/Dokter/home.html",
+		"/C/xampp/htdocs/dokter/system/libraries/Unit_test.php",
+		"/C/xampp/htdocs/dokter/application/models/pasien_model.php",
+		"/C/xampp/htdocs/dokter/application/views/dokter/content_scheduling.php",
+		"/E/Dokter/demo/application/views/dokter/sidebar_dashboard.php",
+		"/C/xampp/htdocs/dokter/application/views/dokter/sidebar_settings.php",
+		"/C/xampp/htdocs/dokter/application/views/user/update_phone.php",
+		"/C/xampp/htdocs/dokter/application/controllers/ajax.php",
+		"/C/xampp/htdocs/codegen/application/controllers/my_data.php",
+		"/C/xampp/htdocs/dokter/assets/js/mimindashboard.js",
+		"/C/xampp/htdocs/codegen/application/views/subscriber_view.php",
+		"/C/xampp/htdocs/dokter/application/views/mimin/content_dashboard.php",
+		"/C/xampp/htdocs/dokter/application/controllers/mimin.php",
+		"/C/xampp/htdocs/dokter/assets/js/time_pick_dok.js",
+		"/C/xampp/htdocs/dokter/application/views/dokter/jadwal.php",
+		"/C/xampp/htdocs/codegen/application/helpers/datatables_helper.php",
+		"/C/xampp/htdocs/dokter/application/libraries/Template.php",
+		"/C/xampp/htdocs/codegen/application/controllers/welcome.php",
+		"/C/xampp/htdocs/codegen/application/controllers/data.php",
+		"/C/xampp/htdocs/codegen/application/views/my_data_view.php",
+		"/C/xampp/htdocs/codegen/application/views/sample_data.php",
+		"/C/xampp/htdocs/codegen/application/helpers/index.html",
+		"/C/xampp/htdocs/codegen/assets/css/datattables.bootstrap.css",
+		"/C/xampp/htdocs/lili/example-data.php",
+		"/C/xampp/htdocs/lili/example.html",
+		"/C/xampp/htdocs/codegen/assets/css/datatables.bootstrap.css",
+		"/C/xampp/htdocs/codegen/assets/css/datatables.bootstrap.js",
+		"/C/xampp/htdocs/codegen/application/config/database.php",
+		"/C/xampp/htdocs/codegen/application/config/routes.php",
+		"/C/xampp/htdocs/codegen/application/config/config.php",
+		"/C/xampp/htdocs/codegen/application/libraries/datatables.php",
+		"/C/xampp/htdocs/codegen/application/views/res/datatables.jquery.js",
+		"/C/xampp/htdocs/dokter/assets/grocery_crud/themes/twitter-bootstrap/views/add.php",
+		"/C/xampp/htdocs/dokter/assets/grocery_crud/themes/twitter-bootstrap/views/list_template_backup.php",
+		"/C/xampp/htdocs/dokter/assets/grocery_crud/themes/datatables/views/list_template.php",
+		"/C/xampp/htdocs/dokter/assets/grocery_crud/themes/twitter-bootstrap/views/list_template.php",
+		"/C/xampp/htdocs/dokter/application/views/mimin/content_login.php",
+		"/C/xampp/htdocs/dokter/application/controllers/examples.php",
+		"/C/xampp/htdocs/codegen/application/controllers/crud.php",
+		"/C/xampp/htdocs/codegen/application/views/crud/list.php",
+		"/C/xampp/htdocs/codegen/mz-codeigniter-crud-master/application/controllers/crud.php",
+		"/C/xampp/htdocs/codegen/mz-codeigniter-crud-master/application/views/crud/list.php",
+		"/C/xampp/htdocs/dokter/application/libraries/Grocery_CRUD.php",
+		"/C/xampp/htdocs/dokter/application/config/grocery_crud.php",
+		"/C/xampp/htdocs/dokter/application/controllers/examples_grocery.php",
+		"/C/xampp/htdocs/dokter/assets/js/dashboard_dok.js",
+		"/E/Dokter/demo/application/views/dokter/jadwal.php",
+		"/C/xampp/htdocs/dokter/application/controllers/user.php",
+		"/E/Dokter/scheduling.html",
+		"/C/xampp/htdocs/dokter/application/views/user/content_dashboard.php",
+		"/C/xampp/htdocs/dokter/application/views/dokter/dashboard.php",
+		"/C/xampp/htdocs/dokter/application/libraries/my_model.php",
+		"/C/xampp/htdocs/dokter/application/views/profil.php",
+		"/C/xampp/htdocs/dokter/application/libraries/oauth2/Provider/Twitter.php",
+		"/C/xampp/htdocs/dokter/application/views/klinik/sidebar_profil.php",
+		"/C/xampp/htdocs/dokter/application/controllers/test.php",
+		"/C/xampp/htdocs/dokter/application/views/component/content_home.php",
+		"/E/Raw Programs/yamm3-master/yamm/yamm.css",
+		"/E/kalukis/kalukis-master/apps/src/app.js",
+		"/E/kalukis/kalukis-master/apps/src/main.js",
+		"/E/kalukis/kalukis-master/apps/src/brushes/asBrush.js",
+		"/E/kalukis/kalukis-master/apps/src/brushes/circle.js",
+		"/E/kalukis/kalukis-master/apps/src/brushes/circularPattern.js",
+		"/E/kalukis/kalukis-master/apps/src/brushes/hollowCircle.js",
+		"/E/kalukis/kalukis-master/apps/src/canvasUtils/brushDistance.js",
+		"/C/xampp/htdocs/dokter/application/aad/libraries/facebook.php",
+		"/C/xampp/htdocs/dokter/application/libraries/base_facebook.php",
+		"/E/kalukis/kalukis-master/apps/src/ui/brushDistanceWidget/brushDistanceWidget.js",
+		"/E/kalukis/kalukis-master/apps/src/ui/brushDistanceWidget/template.html",
+		"/C/xampp/htdocs/dokter/application/views/component/sidebar_profil.php",
+		"/C/xampp/htdocs/dokter/application/controllers/welcome.php",
+		"/C/xampp/htdocs/dokter/application/libraries/oauth2/Facebook.php",
+		"/C/xampp/htdocs/dokter/application/libraries/oauth2/Provider.php",
+		"/C/xampp/htdocs/dokter/application/libraries/oauth2/Provider/Facebook.php",
+		"/C/xampp/htdocs/dokter/password.txt",
+		"/C/xampp/htdocs/dokter/application/controllers/fbtest.php",
+		"/C/xampp/htdocs/dokter/application/views/user/login.php",
+		"/C/xampp/htdocs/dokter/application/views/user/content_settings.php",
+		"/C/xampp/htdocs/dokter/application/config/config.php",
+		"/E/Dokter/demo/application/config/config.php",
+		"/E/Dokter/demo/application/config/database.php",
+		"/C/xampp/htdocs/dokter/application/views/dokter/settings.php",
+		"/C/xampp/htdocs/dokter/application/views/user/uppermenu_dashboard.php",
+		"/C/xampp/htdocs/dokter/application/config/facebook.php",
+		"/C/xampp/htdocs/dokter/application/helpers/my_time_helper.php",
+		"/C/xampp/htdocs/dokter/application/libraries/facebook.php",
+		"/C/xampp/htdocs/dokter/application/aad/config/facebook.php",
+		"/C/xampp/htdocs/dokter/application/views/user/setting.php",
+		"/C/xampp/htdocs/dokter/assets/js/toggle_login.js",
+		"/C/xampp/htdocs/dokter/application/config/template.php",
+		"/C/xampp/htdocs/dokter/application/views/dokter/content_register.php",
+		"/C/xampp/htdocs/dokter/application/views/dokter/login.php",
+		"/C/xampp/htdocs/dokter/assets/css/default.css"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"C:\\xampp\\htdocs\\dokter",
+			"E:\\eclipse3\\lokal,C:\\xampp\\tomcat",
+			"E:\\eclipse3\\lokal",
+			"E:\\eclipse3\\IF3110-Tubes-II",
+			"C:\\xampp\\tomcat\\webapps",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"prev",
+			"prev_tag_open",
+			"$d",
+			"d",
+			"b",
+			"div",
+			"p",
+			"get_request",
+			"active",
+			"form_value",
+			"<!--",
+			"edit_album",
+			"show",
+			"shw",
+			"r",
+			"logout",
+			"search",
+			"dokter_model",
+			"edit_album",
+			"sidebar_dashboard",
+			"info",
+			"sidebar_profil",
+			"dokter",
+			"info_dokter",
+			"user",
+			"var_dump",
+			"dokter_model",
+			"alias_klinik",
+			"alias",
+			"email_klinik",
+			"Email",
+			"statement",
+			"confirm_password",
+			"password_dokter",
+			"email_dokter",
+			"Email",
+			"nama_dokter",
+			"foto_4",
+			"foto_3",
+			"profile_pic",
+			"foot_1",
+			"profile_pic",
+			"holder.js/100%x100%",
+			"settings",
+			"error",
+			"dashboard",
+			"login",
+			"table_name",
+			"find_by_name",
+			"jquery",
+			" col-sm-1",
+			"bootstrap_timepicker",
+			"moment",
+			"$viewdata",
+			"jquery",
+			"bootstrap",
+			"span8",
+			"ostd",
+			"span12",
+			"subscriber",
+			"code",
+			"pre",
+			"codegen/application/",
+			"<?php echo base_url(); ?>",
+			"example",
+			"view",
+			"controllername",
+			"Controllername",
+			"jquery",
+			"js",
+			"form-search",
+			"cont",
+			"row-fluid",
+			"span12",
+			"span",
+			"<!--?php",
+			"&gt;",
+			"$this->theme",
+			"theme",
+			"tab-content",
+			"email",
+			"Email",
+			"email",
+			"fieldname",
+			"Mimin",
+			"admin",
+			"Admin",
+			"admin",
+			"Admin",
+			"user",
+			"User",
+			"moment",
+			"datetimepicker",
+			"terima",
+			"bootbox",
+			"my_add",
+			"terima_request",
+			"ambah_",
+			"><",
+			"b",
+			"div",
+			"p",
+			"data",
+			"navbar-nav",
+			"api",
+			"Product description",
+			"Product name",
+			"info_dokter",
+			"load",
+			"t",
+			"confirm_request_batch",
+			"confirm_requ",
+			"ul",
+			"false",
+			"alert-fixed-top",
+			"top",
+			"nama_pasien",
+			"form_value",
+			"$str",
+			"nama_dokter",
+			"email",
+			"Email",
+			"email",
+			"nama_dokter",
+			"error",
+			"'twitter'",
+			"DOMAIN",
+			"fql"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"<?php",
+			">",
+			">\\n<",
+			",\\n",
+			"[,][\\n]",
+			",[\\n]",
+			"\\n,",
+			"<?php echo lib_url().'/res/'; ?>"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "application/controllers/klinik.php",
+					"settings":
+					{
+						"buffer_size": 11477,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1616,
+								1616
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 179.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/E/kalukis/kalukis-master/apps/src/main.js",
+					"settings":
+					{
+						"buffer_size": 1076,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/E/kalukis/kalukis-master/apps/src/app.js",
+					"settings":
+					{
+						"buffer_size": 3463,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2424,
+								2424
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/E/kalukis/kalukis-master/apps/src/painters/freehandPainter.js",
+					"settings":
+					{
+						"buffer_size": 2887,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								137,
+								137
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/C/xampp/htdocs/wordpress/wp-config.php",
+					"settings":
+					{
+						"buffer_size": 3412,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3147,
+								3147
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 689.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/E/kalukis/kalukis-master/apps/index.html",
+					"settings":
+					{
+						"buffer_size": 1508,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								609,
+								613
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "application/views/klinik/content_profil.php",
+					"settings":
+					{
+						"buffer_size": 5076,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2773,
+								2773
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 770.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "application/views/templates/template_1.php",
+					"settings":
+					{
+						"buffer_size": 3468,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								83,
+								83
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"klinik",
+				"dokter/application/controllers/klinik.php"
+			],
+			[
+				"template_1",
+				"dokter/application/views/templates/template_1.php"
+			],
+			[
+				"klini",
+				"dokter/application/controllers/klinik.php"
+			],
+			[
+				"content_profil",
+				"dokter/application/views/klinik/content_profil.php"
+			],
+			[
+				"bootstrap_galler.js",
+				"dokter/assets/libs/bootstrap_gallery/js/demo.js"
+			],
+			[
+				"libs/css/bogaller",
+				"dokter/assets/libs/bootstrap_gallery/css/bootstrap-image-gallery.css"
+			],
+			[
+				"klinik_model",
+				"dokter/application/models/klinik_model.php"
+			],
+			[
+				"csite",
+				"dokter/application/controllers/site.php"
+			],
+			[
+				"klincontent_dashboar",
+				"dokter/application/views/klinik/content_dashboard.php"
+			],
+			[
+				"bootstrap_gallerindex",
+				"dokter/assets/libs/bootstrap_gallery/index.html"
+			],
+			[
+				"dokter/contentdashboar",
+				"dokter/application/views/dokter/content_dashboard.php"
+			],
+			[
+				"klcontent_dashboard",
+				"dokter/application/views/klinik/content_dashboard.php"
+			],
+			[
+				"uppermenu",
+				"dokter/application/views/component/uppermenu.php"
+			],
+			[
+				"klicontent_dash",
+				"dokter/application/views/klinik/content_dashboard.php"
+			],
+			[
+				"upper",
+				"dokter/application/views/component/uppermenu.php"
+			],
+			[
+				"klicontent_dashboard",
+				"dokter/application/views/klinik/content_dashboard.php"
+			],
+			[
+				"content_mana",
+				"dokter/application/views/klinik/content_manajemen_dokter.php"
+			],
+			[
+				"klinik_mo",
+				"dokter/application/models/klinik_model.php"
+			],
+			[
+				"dokter",
+				"dokter/application/controllers/dokter.php"
+			],
+			[
+				"dokter_model",
+				"dokter/application/models/dokter_model.php"
+			],
+			[
+				"klinik_mode",
+				"dokter/application/models/klinik_model.php"
+			],
+			[
+				"template_2",
+				"dokter/application/views/templates/template_2.php"
+			],
+			[
+				"template_",
+				"dokter/application/views/templates/template_1.php"
+			],
+			[
+				"uppermen",
+				"dokter/application/views/component/uppermenu.php"
+			],
+			[
+				"contentprofil",
+				"dokter/application/views/dokter/content_profil.php"
+			],
+			[
+				"man",
+				"dokter/application/views/klinik/content_manajemen_dokter.php"
+			],
+			[
+				"manajemen",
+				"dokter/application/views/klinik/content_manajemen_dokter.php"
+			],
+			[
+				"content_edit",
+				"dokter/application/views/klinik/content_edit_album.php"
+			],
+			[
+				"dattables.js",
+				"dokter/assets/libs/bootstrap_datatables/js/datatables.js"
+			],
+			[
+				"sidebar_dashboard",
+				"dokter/application/views/klinik/sidebar_dashboard.php"
+			],
+			[
+				"my_calendar",
+				"dokter/assets/js/my_calendar.js"
+			],
+			[
+				"klin_mo",
+				"dokter/application/models/klinik_model.php"
+			],
+			[
+				"klinik_m",
+				"dokter/application/models/klinik_model.php"
+			],
+			[
+				"my_gma",
+				"dokter/assets/js/my_gmap.js"
+			],
+			[
+				"klnik_model",
+				"dokter/application/models/klinik_model.php"
+			],
+			[
+				"routes",
+				"dokter/application/config/routes.php"
+			],
+			[
+				"content_dashboard",
+				"dokter/application/views/dokter/content_dashboard.php"
+			],
+			[
+				"conklinik",
+				"dokter/application/controllers/klinik.php"
+			],
+			[
+				"content_ei",
+				"dokter/application/views/klinik/content_edit_album.php"
+			],
+			[
+				"roytes",
+				"dokter/assets/libs/grocery/assets/grocery_crud/js/jquery_plugins/ui/i18n/timepicker/jquery-ui-timepicker-es.js"
+			],
+			[
+				"klin",
+				"dokter/application/controllers/klinik.php"
+			],
+			[
+				"dokter/sidebar_dash",
+				"dokter/application/views/dokter/sidebar_dashboard.php"
+			],
+			[
+				"klnik_mod",
+				"dokter/application/models/klinik_model.php"
+			],
+			[
+				"content_settings",
+				"dokter/application/views/klinik/content_settings.php"
+			],
+			[
+				"con/klini",
+				"dokter/application/controllers/klinik.php"
+			],
+			[
+				"klinik/content_edit",
+				"dokter/application/views/klinik/content_edit_album.php"
+			],
+			[
+				"content_edit_album",
+				"dokter/application/views/klinik/content_edit_album.php"
+			],
+			[
+				"content_login",
+				"dokter/application/views/klinik/content_login.php"
+			],
+			[
+				"content_lg",
+				"dokter/application/views/klinik/content_login.php"
+			],
+			[
+				"klik_",
+				"dokter/application/models/klinik_model.php"
+			],
+			[
+				"login",
+				"dokter/application/views/login.php"
+			],
+			[
+				"kcontent_login",
+				"dokter/application/views/klinik/content_login.php"
+			],
+			[
+				"site",
+				"dokter/system/libraries/Unit_test.php"
+			],
+			[
+				"content_dir",
+				"dokter/application/views/dokter/content_direktori.php"
+			],
+			[
+				"contentd",
+				"dokter/application/views/dokter/content_direktori.php"
+			],
+			[
+				"dokter_mod",
+				"dokter/application/models/dokter_model.php"
+			],
+			[
+				"dokter/home.html",
+				"Dokter/home.html"
+			],
+			[
+				"content_direk",
+				"dokter/application/views/dokter/content_direktori.php"
+			],
+			[
+				"conrolsite",
+				"dokter/application/controllers/site.php"
+			],
+			[
+				"sidebar_",
+				"Dokter/demo/application/views/dokter/sidebar_dashboard.php"
+			],
+			[
+				"update",
+				"dokter/application/views/user/update_phone.php"
+			],
+			[
+				"content_sche",
+				"dokter/application/views/dokter/content_scheduling.php"
+			],
+			[
+				"jadwal",
+				"dokter/application/views/dokter/jadwal.php"
+			],
+			[
+				"content_scheduling",
+				"dokter/application/views/dokter/content_scheduling.php"
+			],
+			[
+				"time_pick",
+				"dokter/assets/js/time_pick_dok.js"
+			],
+			[
+				"dokter/jawal",
+				"dokter/application/views/dokter/jadwal.php"
+			],
+			[
+				"time",
+				"dokter/assets/js/time_pick_dok.js"
+			],
+			[
+				"pasien_model",
+				"dokter/application/models/pasien_model.php"
+			],
+			[
+				"my_cale",
+				"dokter/assets/js/my_calendar.js"
+			],
+			[
+				"dokter/ajax",
+				"dokter/application/controllers/ajax.php"
+			],
+			[
+				"my_calenda",
+				"dokter/assets/js/my_calendar.js"
+			],
+			[
+				"my_gmap",
+				"dokter/assets/js/my_gmap.js"
+			],
+			[
+				"my_data",
+				"codegen/application/controllers/my_data.php"
+			],
+			[
+				"subscri",
+				"codegen/application/views/subscriber_view.php"
+			],
+			[
+				"my.js",
+				"dokter/assets/js/my_gmap.js"
+			],
+			[
+				"librariestemplate",
+				"dokter/application/libraries/Template.php"
+			],
+			[
+				"subsr",
+				"codegen/application/views/subscriber_view.php"
+			],
+			[
+				"datatabl_helper",
+				"codegen/application/helpers/datatables_helper.php"
+			],
+			[
+				"codege/contro/data",
+				"codegen/application/controllers/my_data.php"
+			],
+			[
+				"content_dsa",
+				"dokter/application/views/mimin/content_dashboard.php"
+			],
+			[
+				"mimin",
+				"dokter/application/controllers/mimin.php"
+			],
+			[
+				"datatableshelper",
+				"codegen/application/helpers/datatables_helper.php"
+			],
+			[
+				"subscibe",
+				"codegen/application/views/subscriber_view.php"
+			],
+			[
+				"datatables.boot",
+				"codegen/assets/css/datatables.bootstrap.js"
+			],
+			[
+				"datatables.bootstracss",
+				"codegen/assets/css/datatables.bootstrap.css"
+			],
+			[
+				"datatables.bootstrap.js",
+				"codegen/assets/css/datatables.bootstrap.js"
+			],
+			[
+				"subsc",
+				"codegen/application/views/subscriber_view.php"
+			],
+			[
+				"codegen/helper/in",
+				"codegen/application/helpers/index.html"
+			],
+			[
+				"subscriber",
+				"codegen/application/views/subscriber_view.php"
+			],
+			[
+				"subscribe",
+				"codegen/application/views/subscriber_view.php"
+			],
+			[
+				"subs",
+				"codegen/application/views/subscriber_view.php"
+			],
+			[
+				"codegen/database",
+				"codegen/application/config/database.php"
+			],
+			[
+				"coderoutes",
+				"codegen/application/config/routes.php"
+			],
+			[
+				"codegeconfig",
+				"codegen/application/config/config.php"
+			],
+			[
+				"datatables.php",
+				"codegen/application/libraries/datatables.php"
+			],
+			[
+				"data",
+				"codegen/application/controllers/data.php"
+			],
+			[
+				"sample_data",
+				"codegen/application/views/sample_data.php"
+			],
+			[
+				"code/view/index",
+				"codegen/application/views/index.php"
+			],
+			[
+				"codedata",
+				"codegen/application/controllers/data.php"
+			],
+			[
+				"list_template.php",
+				"dokter/assets/grocery_crud/themes/datatables/views/list_template.php"
+			],
+			[
+				"list_template_backu",
+				"dokter/assets/grocery_crud/themes/twitter-bootstrap/views/list_template_backup.php"
+			],
+			[
+				"twitter-bootstrap/",
+				"dokter/assets/grocery_crud/themes/twitter-bootstrap/views/list_template.php"
+			],
+			[
+				"examples",
+				"dokter/application/controllers/examples.php"
+			],
+			[
+				"grocery",
+				"dokter/application/libraries/Grocery_CRUD.php"
+			],
+			[
+				"content_dash",
+				"dokter/application/views/mimin/content_dashboard.php"
+			],
+			[
+				"config/crud",
+				"dokter/application/config/grocery_crud.php"
+			],
+			[
+				"micontent_dash",
+				"dokter/application/views/mimin/content_dashboard.php"
+			],
+			[
+				"mimin/content_",
+				"dokter/application/views/mimin/content_login.php"
+			],
+			[
+				"my_calend",
+				"dokter/assets/js/my_calendar.js"
+			],
+			[
+				"dokter/content_login",
+				"dokter/application/views/dokter/content_login.php"
+			],
+			[
+				"controller",
+				"dokter/application/controllers/user.php"
+			],
+			[
+				"content_sch",
+				"dokter/application/views/dokter/content_scheduling.php"
+			],
+			[
+				"dokter/jadwal",
+				"Dokter/demo/application/views/dokter/jadwal.php"
+			],
+			[
+				"time_p",
+				"dokter/assets/js/time_pick_dok.js"
+			],
+			[
+				"dokterscheduling",
+				"Dokter/scheduling.html"
+			],
+			[
+				"my_gm.js",
+				"dokter/assets/js/my_gmap.js"
+			],
+			[
+				"content_sched",
+				"dokter/application/views/dokter/content_scheduling.php"
+			],
+			[
+				"calendar.js",
+				"dokter/assets/js/my_calendar.js"
+			],
+			[
+				"do.js",
+				"dokter/assets/js/dashboard_dok.js"
+			],
+			[
+				"content_di",
+				"dokter/application/views/dokter/content_direktori.php"
+			],
+			[
+				"dokter/sched",
+				"Dokter/scheduling.html"
+			],
+			[
+				"content_setti",
+				"dokter/application/views/dokter/content_settings.php"
+			],
+			[
+				"dashboard.js",
+				"dokter/assets/js/dashboard_dok.js"
+			],
+			[
+				"view/profil",
+				"dokter/application/views/profil.php"
+			],
+			[
+				"conten_direktori",
+				"dokter/application/views/dokter/content_direktori.php"
+			],
+			[
+				"dokt",
+				"dokter/application/controllers/dokter.php"
+			],
+			[
+				"dokter/dashboard",
+				"dokter/application/views/dokter/dashboard.php"
+			],
+			[
+				"gmap",
+				"dokter/assets/js/my_gmap.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 182.0,
+	"status_bar_visible": true
+}

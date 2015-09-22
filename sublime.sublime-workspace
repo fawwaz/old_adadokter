@@ -1,0 +1,1184 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"acces",
+				"access_token"
+			],
+			[
+				"h",
+				"h1	Tag"
+			],
+			[
+				"jquery",
+				"jquery_url"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"bootstr",
+				"bootstrap_url"
+			],
+			[
+				"delta",
+				"deltay"
+			],
+			[
+				"get",
+				"getZ"
+			],
+			[
+				"c",
+				"cout"
+			],
+			[
+				"find",
+				"FindClosestPair"
+			],
+			[
+				"Fin",
+				"FindClosestPair"
+			],
+			[
+				"Find",
+				"FindJarak3D"
+			],
+			[
+				"fin",
+				"FindJarak3D"
+			],
+			[
+				"Puzzle",
+				"Puzzle_Finish"
+			],
+			[
+				"Puz",
+				"Puzzle_size"
+			],
+			[
+				"temp",
+				"temp_path"
+			],
+			[
+				"id",
+				"idxmax"
+			],
+			[
+				"pen",
+				"posisi_penumpang"
+			],
+			[
+				"jarak",
+				"jarak_tujuan"
+			],
+			[
+				"pos",
+				"posisi_penumpang"
+			],
+			[
+				"T",
+				"Ttemp"
+			],
+			[
+				"Taxi",
+				"Taxi_Temp"
+			],
+			[
+				"g",
+				"g"
+			],
+			[
+				"Cur",
+				"CurrentPos"
+			],
+			[
+				"com",
+				"comfort_level"
+			],
+			[
+				"cur",
+				"current_position"
+			],
+			[
+				"Curr",
+				"current"
+			],
+			[
+				"sta",
+				"start_position"
+			],
+			[
+				"ge",
+				"getAdjMatrix"
+			],
+			[
+				"_n",
+				"_NumOfKotas"
+			],
+			[
+				"ADj",
+				"AdjMatrix"
+			],
+			[
+				"Adj",
+				"AdjMatrix"
+			],
+			[
+				"set",
+				"setNumOfKotas"
+			],
+			[
+				"num",
+				"NumOfLine"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/xampp/htdocs/twitter/twitteroauth/twitteroauth.php",
+			"settings":
+			{
+				"buffer_size": 7698,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/twitter/clearsessions.php",
+			"settings":
+			{
+				"buffer_size": 245,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/twitter/connect.php",
+			"settings":
+			{
+				"buffer_size": 748,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/twitter/index.php",
+			"settings":
+			{
+				"buffer_size": 1383,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/twitter/html.inc",
+			"settings":
+			{
+				"buffer_size": 1261,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/twitter/redirect.php",
+			"settings":
+			{
+				"buffer_size": 954,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/controllers/tes_auth.php",
+			"settings":
+			{
+				"buffer_size": 1564,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/libraries/oauth2/Provider/Facebook.php",
+			"settings":
+			{
+				"buffer_size": 1386,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/config/autoload.php",
+			"settings":
+			{
+				"buffer_size": 3148,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/libraries/oauth2/Provider.php",
+			"settings":
+			{
+				"buffer_size": 5637,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/libraries/oauth2/Facebook.php",
+			"settings":
+			{
+				"buffer_size": 1386,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/libraries/oauth2/Provider/Twitter.php",
+			"settings":
+			{
+				"buffer_size": 1685,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"ssc",
+				"Set Syntax: C++"
+			],
+			[
+				"ssh",
+				"Set Syntax: HTML"
+			],
+			[
+				"SSC",
+				"Set Syntax: C++"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/dokter/application/libraries/oauth2/Provider/Soundcloud.php",
+		"/C/xampp/htdocs/dokter/application/libraries/oauth2/Provider/Twitter.php",
+		"/C/xampp/htdocs/dokter/index.php",
+		"/C/xampp/htdocs/twitter/twitteroauth/OAuth.php",
+		"/C/xampp/htdocs/twitter/index.php",
+		"/C/xampp/htdocs/twitter/callback.php",
+		"/C/xampp/htdocs/dokter/application/libraries/oauth2/Authorize.php",
+		"/C/xampp/htdocs/dokter/application/config/config.php",
+		"/C/xampp/htdocs/dokter/application/libraries/Twitteroauth.php",
+		"/C/xampp/htdocs/dokter/application/libraries/twit_auth.php",
+		"/C/Users/Asus/AppData/Local/Temp/Rar$DIa0.444/twtest.php",
+		"/C/xampp/htdocs/dokter/application/libraries/twconnect.php",
+		"/C/xampp/htdocs/dokter/application/libraries/my_auth.php",
+		"/C/Users/Asus/Documents/Visual Studio 2012/Projects/KodeVisualC++/soal3.txt_dp.txt",
+		"/C/Users/Asus/Documents/Visual Studio 2012/Projects/KodeVisualC++/soal3.txt",
+		"/C/Users/Asus/Documents/Visual Studio 2012/Projects/KodeVisualC++/soal2.txt_greedy.txt",
+		"/C/Users/Asus/Documents/Visual Studio 2012/Projects/KodeVisualC++/soal2.txt_dp.txt",
+		"/C/Users/Asus/Documents/Visual Studio 2012/Projects/KodeVisualC++/soal1.txt_greedy.txt",
+		"/C/Users/Asus/Documents/Visual Studio 2012/Projects/KodeVisualC++/soal2.txt",
+		"/C/Users/Asus/Documents/Visual Studio 2012/Projects/KodeVisualC++/soal1.txt_dp.txt",
+		"/C/Users/Asus/Documents/Visual Studio 2012/Projects/KodeVisualC++/soal1.txt",
+		"/E/Installer/Adobe CS6 Master Collection/serial number adobe acrobat X pro.txt",
+		"/C/Users/Asus/Documents/Visual Studio 2012/Projects/KodeVisualC++/soal3.txt_greedy.txt",
+		"/E/Installer/Adobe.Master.Collection.CS6.LS16+Patch [WORKING]/Crack-Windows/install.txt",
+		"/C/xampp/htdocs/dokter/application/libraries/twitteroauth/twitteroauth.php",
+		"/C/xampp/htdocs/twitter/config-sample.php",
+		"/C/xampp/htdocs/twitter/twitteroauth/twitteroauth.php",
+		"/C/xampp/htdocs/twitter/html.inc",
+		"/C/xampp/htdocs/dokter/application/libraries/twitteroauth/OAuth.php",
+		"/E/##Kuliah/3rd Year/hci apa itu.txt",
+		"/C/Users/Asus/Documents/Visual Studio 2012/Projects/Project4/Project4/input.txt",
+		"/C/Users/Asus/Downloads/Compressed/Chord_Samples/ChordSampleApp/src/com/samsung/android/sdk/chord/example/SendFilesFragment.java",
+		"/C/Users/Asus/Downloads/Compressed/Chord_Samples/ChordSampleApp/src/com/samsung/android/sdk/chord/example/HelloChordFragment.java",
+		"/C/Users/Asus/Downloads/Compressed/Chord_Samples/ChordSampleApp/src/com/samsung/android/sdk/chord/example/MainFragment.java",
+		"/C/Users/Asus/Downloads/Compressed/Chord_Samples/ChordSampleApp/src/com/samsung/android/sdk/chord/example/FileSelectActivity.java",
+		"/C/Users/Asus/Downloads/Compressed/Chord_Samples/ChordSampleApp/src/com/samsung/android/sdk/chord/example/UseSecureChannelFragment.java",
+		"/C/Users/Asus/Downloads/Compressed/Chord_Samples/ChordSampleApp/src/com/samsung/android/sdk/chord/example/ChordSampleAppActivity.java",
+		"/C/Users/Asus/Downloads/Compressed/Chord_Samples/ChordSampleApp/src/com/samsung/android/sdk/chord/example/ChordLogView.java",
+		"/C/Users/Asus/Dropbox/Greedy Taxi/Mode 2/main_game.cpp",
+		"/E/halo.cpp",
+		"/C/Users/Asus/Dropbox/Greedy Taxi/Mode 2/Game.h",
+		"/C/Users/Asus/Dropbox/Greedy Taxi/Mode 2/Game.cpp",
+		"/E/CPP/taxi/Penumpang.cpp",
+		"/E/Dokter/page.html",
+		"/E/Dokter/scheduling.html",
+		"/C/xampp/htdocs/tubes/assets/css/modal.css",
+		"/C/xampp/htdocs/tubes/assets/css/default.css",
+		"/C/xampp/htdocs/tubes/views/home.php",
+		"/C/xampp/htdocs/tubes/controllers/credit.php",
+		"/C/xampp/htdocs/dokter/application/views/page.php",
+		"/C/xampp/htdocs/dokter/application/controllers/page.php",
+		"/E/CPP/taxi/main_game.cpp",
+		"/C/xampp/htdocs/dokter/application/config/template.php",
+		"/C/Users/Asus/Documents/Visual Studio 2012/Projects/Project4/Debug/input2.txt",
+		"/C/Users/Asus/Documents/Visual Studio 2012/Projects/Project4/Project4/Dp.backuph",
+		"/C/Users/Asus/Documents/Visual Studio 2012/Projects/Project4/Debug/input.txt",
+		"/C/Users/Asus/AppData/Local/Temp/Rar$DIa0.411/dynamicprogramming.cpp",
+		"/C/Users/Asus/Documents/Visual Studio 2012/Projects/Project4/Project4/Dp.Backupcpp",
+		"/E/CPP/taxi/Peta.cpp",
+		"/C/xampp/htdocs/dokter/user_guide/tutorial/news_section.html",
+		"/C/xampp/htdocs/tubes/controllers/detail.php",
+		"/C/xampp/htdocs/tubes/controllers/category.php",
+		"/C/xampp/htdocs/tubes/controllers/result.php",
+		"/C/xampp/htdocs/tubes/controllers/home.php",
+		"/C/xampp/htdocs/tubes/controllers/registrasi.php",
+		"/C/xampp/htdocs/tubes/controllers/login.php",
+		"/C/xampp/htdocs/tubes/controllers/news.php",
+		"/C/xampp/htdocs/tubes/controllers/profil.php",
+		"/C/xampp/htdocs/tubes/controllers/registrasikartu.php",
+		"/C/xampp/htdocs/tubes/controllers/router.php",
+		"/C/xampp/htdocs/dokter/assets/css/bawaan.css",
+		"/E/Dokter/res/fullcalendar-1.6.4/demos/json-events.php",
+		"/C/xampp/htdocs/tubes/assets/css/tinybox.css",
+		"/C/xampp/htdocs/dokter/application/config/autoload.php",
+		"/C/xampp/htdocs/dokter/application/controllers/home.php",
+		"/E/Dokter/res/fullcalendar-1.6.4/demos/agenda-views.html",
+		"/E/Dokter/base.html",
+		"/C/xampp/htdocs/dokter/application/views/templates/template_primary.php",
+		"/E/Dokter/home.html",
+		"/C/Users/Asus/AppData/Local/Temp/eksperimen-3.txt",
+		"/E/Dokter/result.html",
+		"/C/xampp/htdocs/dokter/application/controllers/welcome.php",
+		"/C/xampp/htdocs/dokter/application/helpers/asset_helper.php",
+		"/C/Users/Asus/AppData/Local/Temp/eksperimen-3-2.txt",
+		"/E/Dokter/scheduling",
+		"/C/xampp/htdocs/dokter/assets/libs/jquery/lazyload_plugin/lazyload.js",
+		"/E/Download/bootswatch.less",
+		"/E/Download/variables.less",
+		"/C/xampp/htdocs/dokter/assets/libs/bootstrap/css/bootstrap.readable.min.css",
+		"/C/Users/Asus/Documents/anggota.txt",
+		"/C/xampp/htdocs/dokter/application/libraries/Template.php",
+		"/C/xampp/htdocs/dokter/application/views/template.php",
+		"/C/xampp/htdocs/dokter/assets/libs/jquery/jquery.js",
+		"/C/xampp/htdocs/dokter/.htaccess",
+		"/C/xampp/htdocs/dokter/application/views/template_primary.php",
+		"/C/xampp/htdocs/dokter/application/errors/error_404.php",
+		"/C/xampp/htdocs/dokter/application/.htaccess",
+		"/C/xampp/htdocs/dokter/application/config/database.php",
+		"/E/Tubes Unclasified Workspace/ClosestPoint/Shortest Point/Point.cpp",
+		"/C/Users/Asus/AppData/Local/Temp/Rar$DI07.016/client.cpp",
+		"/E/Phonegap Workspace/test/app.js",
+		"/C/Users/Asus/AppData/Local/Temp/Rar$DI29.359/Readme.txt",
+		"/E/Tubes Unclasified Workspace/ClosestPoint/point.h",
+		"/E/Tubes Unclasified Workspace/ClosestPoint/Point.cpp",
+		"/E/Tubes Unclasified Workspace/ClosestPoint/main.cpp",
+		"/C/Users/Asus/AppData/Local/Temp/Rar$DI00.468/21-09-SNA_Upgrading Mentor Karisma 1 - edit.txt",
+		"/C/Users/Asus/AppData/Local/Temp/Rar$DI30.703/Readme.txt",
+		"/C/Users/Asus/AppData/Local/Temp/Rar$DI00.844/server.cpp",
+		"/E/Installer/[files.indowebster.com]-RAR_Password_Unlocker_4.2.0_www.agazsantiago.com/RAR_Password_Unlocker_4.2.0_www.agazsantiago.com/RAR Password Unlocker 4.2.0 - www.agazsantiago.com/BACA SAYA DULU.txt",
+		"/E/Torrent/CSS noob/TutsPlus - CSS Noob To Ninja V413HAV/Read Me.txt",
+		"/E/Tubes Unclasified Workspace/ClosestPoint/Shortest Point/point.h",
+		"/E/Tubes Unclasified Workspace/ClosestPoint/Shortest Point/main.cpp",
+		"/F/Business Model Canvas All.ppt",
+		"/E/Eclipse Workspace/Puzzle/bin/input.txt",
+		"/E/CPP/n-puzzle/test.cs",
+		"/E/CPP/n-puzzle/input.txt",
+		"/C/Users/Asus/Downloads/SlidingSolution.java",
+		"/E/Eclipse/ember-labpro-master/ember-labpro-master/src/com/labpro/game/ember/MainGameActivity.java",
+		"/E/CPP/n-puzzle/puzzle.cpp",
+		"/E/Eclipse/ember-labpro-master/ember-labpro-master/src/com/labpro/game/ember/MainGameView.java",
+		"/C/Users/Asus/Downloads/SlidingSolver.java",
+		"/C/Users/Asus/Downloads/SlidingSolverDriver.java",
+		"/C/Users/Asus/Downloads/TileBoard.java",
+		"/E/CPP/Map.cpp",
+		"/E/CPP/test.cpp",
+		"/E/Tubes Unclasified Workspace/ClosestPoint/Shortest Point/Makefile",
+		"/C/Users/Asus/Documents/Visual Studio 2012/Projects/Puzzle/Debug/input.txt",
+		"/E/Eclipse/ember-labpro-master/ember-labpro-master/src/com/labpro/game/ember/GameLoopThread.java"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"function",
+			"http_build",
+			"$redirect_uri",
+			"redirect_uri",
+			"oauthrequest",
+			"get",
+			"startsoluting",
+			"h4",
+			"h1",
+			"h4",
+			"td",
+			"h2",
+			"padding",
+			"h6",
+			"h3",
+			"h5",
+			"h3",
+			"twitter",
+			"scheduling",
+			"header(",
+			"white",
+			"2px",
+			"<?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');\n\nclass Home extends CI_Controller {\n\n	public function __construct(){\n		parent::__construct();\n		$this->load->helper(\"url\");\n	}\n	\n	public function index()\n	{\n		// $this->template->set_template('default');\n		$this->template->add_css('/assets/css/bawaan.css','link');\n\n		$this->template->render();\n		// $this->load->view('welcome_message');\n	}\n}\n\n/* End of file welcome.php */\n/* Location: ./application/controllers/welcome.php */",
+			"jadwal",
+			"span4",
+			"span9",
+			"span3",
+			"span12",
+			"Dokter B",
+			"Nested media heading",
+			"span8",
+			"span",
+			"span12",
+			"../",
+			"badge",
+			"label",
+			"badge",
+			"span9",
+			"span2",
+			"span1",
+			"font",
+			"import url",
+			"fonts",
+			"google",
+			"template library",
+			"../assets",
+			"GetX",
+			"FindClosestPair2",
+			"(*delta)",
+			"(*",
+			"Point",
+			".GetX()",
+			"get",
+			".getZ()",
+			".getY()",
+			".getX()",
+			"z",
+			"y",
+			"x",
+			"P",
+			"P2",
+			"P1",
+			"GetZ",
+			"GetY",
+			"GetX",
+			"this->",
+			"P",
+			"this->",
+			"Other",
+			"sp",
+			"SP",
+			"Puzzle_Start",
+			"i",
+			"rand",
+			"tmpdist",
+			"Candidat",
+			"Kotas",
+			"vector",
+			"int",
+			"jarak_penumpang_current",
+			"adjList",
+			"it",
+			"NumOfKotas",
+			"matrix_node",
+			"n_node",
+			"i",
+			"Taxi",
+			");\n",
+			"a",
+			"dist[",
+			"matrix_node",
+			"v",
+			"V",
+			"i",
+			"NumOfLine",
+			"i"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 8,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/xampp/htdocs/twitter/twitteroauth/twitteroauth.php",
+					"settings":
+					{
+						"buffer_size": 7698,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5768,
+								5768
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2102.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/xampp/htdocs/twitter/clearsessions.php",
+					"settings":
+					{
+						"buffer_size": 245,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/xampp/htdocs/twitter/connect.php",
+					"settings":
+					{
+						"buffer_size": 748,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								101,
+								101
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/C/xampp/htdocs/twitter/index.php",
+					"settings":
+					{
+						"buffer_size": 1383,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								239,
+								239
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/C/xampp/htdocs/twitter/html.inc",
+					"settings":
+					{
+						"buffer_size": 1261,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 27.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/C/xampp/htdocs/twitter/redirect.php",
+					"settings":
+					{
+						"buffer_size": 954,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								108,
+								108
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "application/controllers/tes_auth.php",
+					"settings":
+					{
+						"buffer_size": 1564,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								563,
+								666
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "application/libraries/oauth2/Provider/Facebook.php",
+					"settings":
+					{
+						"buffer_size": 1386,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 48.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "application/config/autoload.php",
+					"settings":
+					{
+						"buffer_size": 3148,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1703,
+								1703
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 584.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "application/libraries/oauth2/Provider.php",
+					"settings":
+					{
+						"buffer_size": 5637,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2784,
+								2784
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1515.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "application/libraries/oauth2/Facebook.php",
+					"settings":
+					{
+						"buffer_size": 1386,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								167,
+								167
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "application/libraries/oauth2/Provider/Twitter.php",
+					"settings":
+					{
+						"buffer_size": 1685,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1679,
+								1679
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 88.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"index",
+				"dokter/index.php"
+			],
+			[
+				"provide",
+				"dokter/application/libraries/oauth2/Provider.php"
+			],
+			[
+				"twitteroauth",
+				"dokter/application/libraries/twitteroauth/twitteroauth.php"
+			],
+			[
+				"provider",
+				"dokter/application/libraries/oauth2/Provider.php"
+			],
+			[
+				"authorize",
+				"dokter/application/libraries/oauth2/Authorize.php"
+			],
+			[
+				"autoload",
+				"dokter/application/config/autoload.php"
+			],
+			[
+				"config",
+				"dokter/application/config/config.php"
+			],
+			[
+				"twitteroauth.php",
+				"dokter/application/libraries/twitteroauth/twitteroauth.php"
+			],
+			[
+				"twitteroaut",
+				"dokter/application/libraries/Twitteroauth.php"
+			],
+			[
+				"twconn",
+				"dokter/application/libraries/twconnect.php"
+			],
+			[
+				"my_",
+				"dokter/application/libraries/my_auth.php"
+			],
+			[
+				"sc",
+				"Dokter/scheduling.html"
+			],
+			[
+				"page.",
+				"Dokter/page.html"
+			],
+			[
+				"sched",
+				"Dokter/scheduling.html"
+			],
+			[
+				"news",
+				"user_guide/tutorial/news_section.html"
+			],
+			[
+				"autoloa",
+				"application/config/autoload.php"
+			],
+			[
+				"page.php",
+				"application/views/page.php"
+			],
+			[
+				"template",
+				"application/config/template.php"
+			],
+			[
+				"template.php",
+				"application/views/template.php"
+			],
+			[
+				"jquery",
+				"assets/libs/jquery/jquery.js"
+			],
+			[
+				"welcomp",
+				"application/controllers/welcome.php"
+			],
+			[
+				"game.cpp",
+				"Dropbox/Greedy Taxi/Mode 2/Game.cpp"
+			],
+			[
+				"peta.cpp",
+				"Dropbox/Greedy Taxi/Mode 1/Peta.cpp"
+			],
+			[
+				"mode",
+				"Dropbox/Greedy Taxi/Graf/basicdrawing/Mode1.cpp"
+			],
+			[
+				"taxi.cpp",
+				"Dropbox/Greedy Taxi/Mode 2/Taxi.cpp"
+			],
+			[
+				"main",
+				"CPP/taxi/main_game.cpp"
+			],
+			[
+				"map",
+				"Projects/Project2/Project2/Map.cpp"
+			],
+			[
+				"mode1",
+				"Dropbox/Greedy Taxi/Mode 1/Mode1.cpp"
+			],
+			[
+				"taxi.",
+				"Dropbox/Greedy Taxi/Mode 2/Taxi.cpp"
+			],
+			[
+				"peta.cp",
+				"Dropbox/Greedy Taxi/Mode 1/Peta.cpp"
+			],
+			[
+				"peta.h",
+				"Dropbox/Greedy Taxi/Mode 2/Peta.h"
+			],
+			[
+				"game.h",
+				"Dropbox/Greedy Taxi/Mode 2/Game.h"
+			],
+			[
+				"penumpang",
+				"Dropbox/Greedy Taxi/Mode 2/Penumpang.h"
+			],
+			[
+				"penumpa",
+				"CPP/Penumpang.h"
+			],
+			[
+				"taxi",
+				"Dropbox/Greedy Taxi/Mode 2/Taxi.cpp"
+			],
+			[
+				"map.h",
+				"CPP/Map.h"
+			],
+			[
+				"peta.c",
+				"Dropbox/Greedy Taxi/Mode 1/Peta.cpp"
+			],
+			[
+				"peta",
+				"Dropbox/Greedy Taxi/Mode 1/Peta.h"
+			],
+			[
+				"mainmode",
+				"Dropbox/Greedy Taxi/Mode 1/Main_Mode1.cpp"
+			],
+			[
+				"mode1.cpp",
+				"Dropbox/Greedy Taxi/Mode 1/Mode1.cpp"
+			],
+			[
+				"greed",
+				"Dropbox/Greedy Taxi/Peta.h"
+			],
+			[
+				"idpenum",
+				"Dropbox/Greedy Taxi/Mode 1/Penumpang.h"
+			],
+			[
+				"dijkstra",
+				"/C/Users/Asus/Dropbox/Greedy Taxi/Mode 1/Dijkstra.cpp"
+			],
+			[
+				"map.c",
+				"/E/CPP/Map.cpp"
+			],
+			[
+				"kota",
+				"/E/CPP/Kota.txt"
+			],
+			[
+				"dijk",
+				"/C/Users/Asus/Dropbox/Greedy Taxi/Mode 1/Dijkstra.cpp"
+			],
+			[
+				"mapbacku",
+				"/C/Users/Asus/Dropbox/Greedy Taxi/Mode 2/map backup"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}

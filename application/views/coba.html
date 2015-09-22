@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<link rel="stylesheet" type="text/css" href="http://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css">
+
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
+	<script type="text/javascript" src="http://code.jquery.com/ui/1.10.3/jquery-ui.js"></script>
+	<script src="http://cdnjs.cloudflare.com/ajax/libs/datejs/1.0/date.min.js"></script>
+	<script src="http://cdnjs.cloudflare.com/ajax/libs/moment.js/2.4.0/moment.min.js"></script>
+
+	<!-- // <script type="text/javascript" src="http://maps.google.com/maps/api/js?key=AIzaSyCo7WxuA7MpBsm_Jf-IkABTD0aSRpZxJoo&sensor=false&libraries=geometry&v=3.7"></script> -->
+	<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/gmaps.js/0.4.5/gmaps.js"></script>
+    <script src="../../assets/libs/maplace/maplace.js"></script>
+    <script src="../../assets/libs/foggy/foggy.js"></script>
+
+    <script type="text/javascript">
+	    $(document).ready(function(){
+	     var map = new GMaps({
+	        el: '#gmap',
+	        lat: 51.5073346,
+	        lng: -0.1276831,
+	        zoom: 12,
+	        zoomControl : true,
+	        zoomControlOpt: {
+	            style : 'SMALL',
+	            position: 'TOP_LEFT'
+	        },
+	        panControl : false,
+	      });
+	    });
+    </script>
+	<script type="text/javascript">
+	$(document).ready(function() {
+      
+      //  	$.ajax({
+      //  		url:'http://localhost/tube/boleh.php',
+      //  		type:'GET',
+      //  		crossDomain: true,
+    		// dataType: 'jsonp',
+      //  		data:{
+      //  			'start':'1388509200',
+      //  			'end':'1389200400'
+      //  		},
+      //  		success:function(data){
+      //  			$('.halo').html(data);
+      //  		}
+      //  		error:function(){
+      //  			alert('yah');
+      //  		}
+       		
+      //  	});
+
+       	//$('.halo').html("test");
+       	
+
+       	$.get( "http://localhost/dokter/test/tele",{start:1388509200,end:1389200400},function( text ) {
+			console.log(JSON.stringify(text));
+			$.each(text,function(idx,val){
+				
+
+				var s         = val.split("#");
+				var w         = s[1].split("-");
+				var tanggal   = s[0];
+				var awal_jam  = w[0];
+				var akhir_jam = w[1];
+				$('.halo').append("tanggal "+tanggal+"&nbsp; jam awal : "+awal_jam+"jam akhir"+akhir_jam+"<br>");	
+				
+			});
+		});
+		
+		
+      });
+
+
+	   function divide_time(tgl,start,end,interval){
+	   	var output = new Array();
+	   	var a = tgl+" "+start;
+	   	var b = tgl+" "+end;
+	   	//alert(a + " B \t "+ b );
+	   	var time = moment(a,'YY-MM-DD HH:mm');
+	   	var end = moment(b,'YY-MM-DD HH:mm');
+	   	//alert(time+"\t end \t"+end+"dan"+moment(end).add(60,'minutes').format('YY-MM-DD HH:mm')+"end"+end);
+	   	//var z = time.unix(); var y = end.unix();
+	   	
+	   	 while(time<end){
+	   		var time_starts=null;
+	   	 	var ends=null;
+	   	 	time_starts = moment(time);
+	   	 	time_ends = moment(time_starts).add(interval,'minutes');
+	   	 	
+	   	// 	alert(time_starts+"test :" + time);
+	   		if(time_ends>end){
+	   			time_ends=moment(end);
+	   		}
+
+	   		var temp = new Object();
+	   		temp.title = 'kunjungan';
+	   		temp.start = time_starts.format('YY-MM-DD HH:mm');
+	   		temp.end = time_ends.format('YY-MM-DD HH:mm');
+	   		temp.allDay =false;
+
+	   	 	output.push(temp);
+	   	 	time =moment(time_ends);
+	   	}
+	   	return output;
+	   }
+	</script>
+
+
+	<script type="text/javascript">
+	$('.para').hover(
+		function(){
+			$(this).foggy({
+				blurRadius: 8,          // In pixels.
+			    opacity: 0.4,           // Falls back to a filter for IE.
+			    cssFilterSupport: true  // Use "-webkit-filter" where available.
+			});
+		},function(){
+			$(this).foggy(false);
+		});
+	</script>
+
+	<script type="text/javascript">
+	$(function () {
+	    // the code belows assume the colors array is exactly one element bigger than the handlers array.
+	    var handlers = [25, 50, 75];
+	    var colors = ["#ff0000", "#00ff00", "#0000ff", "#00ffff"];
+	    updateColors(handlers);
+	    
+	    $("#slider").slider({
+	        min: 0,
+	        max: 100,
+	        values: handlers,
+	        slide: function (evt, ui) {
+	            updateColors(ui.values);
+	        }
+	    });
+	    
+	    function updateColors(values) {
+	        var colorstops = colors[0] + ", "; // start left with the first color
+	            for (var i=0; i< values.length; i++) {
+	                colorstops += colors[i] + " " + values[i] + "%,";
+	                colorstops += colors[i+1] + " " + values[i] + "%,";
+	            }
+	            // end with the last color to the right
+	            colorstops += colors[colors.length-1];
+	            /* Safari 5.1, Chrome 10+ */
+	            var css = '-moz-linear-gradient(left,' + colorstops + ')';
+	            var a = '-moz-linear-gradient(left,' + colorstops + ') ';
+	            var b = '-webkit-linear-gradient(left,' + colorstops + ') ';
+	            var c = '-ms-linear-gradient(left,' + colorstops + ') ';
+	            var d = '-o-linear-gradient(left,' + colorstops + ') ';
+	            var e = 'linear-gradient(left,' + colorstops + ') ';
+	            $('#slider')
+	            	.css('background-image', a)
+	            	.css('background-image', b)
+	            	.css('background-image', c)
+	            	.css('background-image', d)
+	            	.css('background-image', a);
+	    }
+	});
+	</script>
+
+	<script type="text/javascript">
+
+	$(document).ready(function(){
+		$('#my_slider').slider({
+			range : true,
+			min : 0,
+			max : 24,
+			values : [8,17],
+			step : 0.25,
+			slide : function(event,ui){
+				console.log(JSON.stringify(ui.values));
+			}
+
+		});
+
+
+	});
+
+	</script>
+
+	<style type="text/css">
+	#gmap{
+		width: 0%;
+		height: 0px;
+		position: absolute;
+		bottom: 0px;
+		left: 0px;
+	}
+	.my_wrap{
+		width: 600px;
+	}
+	</style>
+</head>
+<body>
+	<p class="para">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<div class="halo"></div>
+<div class="layer"></div>
+<div id="slider"></div>
+<br>
+<div class="my_wrap">
+
+<div id="my_slider"></div>
+</div>
+<div id="gmap"></div>
+
+</body>
+</html>
